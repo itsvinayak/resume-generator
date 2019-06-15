@@ -1,6 +1,8 @@
 # Resume generator
 Web based editor to create Resume in a customizable template  
 
+<a href="https://itsvinayak.github.io/resume-generator/"> https://itsvinayak.github.io/resume-generator/ </a>
+
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
 #### Features
@@ -23,6 +25,7 @@ Web based editor to create Resume in a customizable template
 - Note: As this creates a new PDF file, you may have to see permission settings or run with sudo on terminal.
 
 **Note** : Use Google Chrome
+         : and better if open on desktop
 
 
 **this project was forked from nitish6174/resume-generator**
