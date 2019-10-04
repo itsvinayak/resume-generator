@@ -330,3 +330,7 @@ td.header {
 #notice a {
   color: #F1C40F;
 }
+
+.modal-content{
+  background-color: #f2f2f2;
+}
